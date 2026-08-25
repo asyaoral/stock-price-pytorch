@@ -1,0 +1,2 @@
+Model,Lookback,Hidden_Size,Layers,Epochs,Test_RMSE
+GRU,20,64,2,100,10.089264147478628
